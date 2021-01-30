@@ -7,8 +7,10 @@
 - ⛳️ 面向Google编程
 - 🤔 互联网垃圾文学制造者
 - 😯 被人骂过“不要以为你长得帅就了不起”的男人
+- 🏊 互联网弄潮儿
+- 💗 激光雨、花手爱好者
 
-公众号：[一个安全研究员](https://mp.weixin.qq.com/s?__biz=MzU5MDI0ODI5MQ==&mid=2247485173&idx=1&sn=382592379713a1b25de598cbebf3b2c8&chksm=fdc066f9cab7efef302b9122ecef9cf4fd23e0bc8feb90ee349db8141b41e8319b8e567cf41a&token=1826292544&lang=zh_CN#rd)，互联网弄潮儿、整活带师
+公众号：[一个安全研究员](https://mp.weixin.qq.com/s?__biz=MzU5MDI0ODI5MQ==&mid=2247485173&idx=1&sn=382592379713a1b25de598cbebf3b2c8&chksm=fdc066f9cab7efef302b9122ecef9cf4fd23e0bc8feb90ee349db8141b41e8319b8e567cf41a&token=1826292544&lang=zh_CN#rd)
 
 <!--
 **Maskhe/Maskhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
