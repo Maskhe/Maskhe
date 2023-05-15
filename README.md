@@ -2,10 +2,7 @@
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=Maskhe&show_icons=true&theme=radical" width="380">
 
-- 🔭 甲方划水安全工程师
-- 👯 Java、PHP瞎🐔er审计
-- ⛳️ 面向Google编程
-- 🤔 互联网垃圾文学制造者
+- 🔭 甲方安全工程师
 - 😯 被人骂过“不要以为你长得帅就了不起”的男人
 - 🏊 互联网弄潮儿
 - 💗 激光雨、花手爱好者
