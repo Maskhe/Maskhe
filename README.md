@@ -2,10 +2,10 @@
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=Maskhe&show_icons=true&theme=radical" width="380">
 
-- 🔭 甲方安全工程师
-- 😯 被人骂过“不要以为你长得帅就了不起”的男人
+- 🔭 Cybersecurity Engineer
+- 😯 Python、Java、Web3
 - 🏊 互联网弄潮儿
-- 💗 激光雨、花手爱好者
+- 💗 CISSP
 
 
 座右铭：做人不要太攀比，要比就比激光雨
