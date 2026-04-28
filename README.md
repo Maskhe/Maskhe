@@ -8,9 +8,6 @@
 - 💗 CISSP
 
 
-座右铭：做人不要太攀比，要比就比激光雨
-
-人生忠告：别爱我，没结果，除非花手摇过我
 
 <!--
 **Maskhe/Maskhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
